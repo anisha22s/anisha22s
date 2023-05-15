@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi there,  I'm Anisha :)
 
-<!--
-**anisha22s/anisha22s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate Data Analyst and learner with a love for startups, sustainability and clean technology. 
 
-Here are some ideas to get you started:
+🌱 I'm currently finishing my Master's in Business Analytics at UC Davis while taking courses in Big Data Analytics and Supply Chain Optimization
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: She, Her, Hers
-- ⚡ Fun fact: ...
--->
+🔭 I also work as a data analyst for a non profit performing arts center where I lead ETL and automation projects and also assist with pricing strategies, A/B testing and customer feedback sentiment analysis .
+
+📚 I believe in lifelong learning and enjoy exploring new ideas and technologies to enhance my skills.
+
+📫 How to reach me: anisha.samant22@gmail.com, https://www.linkedin.com/in/anisha-samant/
+
+
+
+
+
