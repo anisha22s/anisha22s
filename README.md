@@ -1,6 +1,6 @@
 ### Hi there,  I'm Anisha :)
 
-🌉I'm a passionate Data Analyst and learner based in San Francisco
+I'm a passionate Data Analyst and learner based in San Francisco 🌉
 
 📚I'm currently finishing my Master's in Business Analytics at UC Davis while taking courses in Big Data Analytics and Supply Chain Optimization
 
