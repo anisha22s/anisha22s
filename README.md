@@ -2,9 +2,9 @@
 
 I'm a passionate Data Analyst and learner based in San Francisco ☀️
 
-📚I'm currently finishing my Master's in Business Analytics at UC Davis while taking courses in Optimization, Big Data Analytics and Supply Chain Analytics. Additionally, I am prepping for the AWS cloud certification.
+📚I recently finished my Master's in Business Analytics from UC Davis where I took courses in Advanced Statistics, Machine Learning, Data Management, Optimization, Big Data Analytics and Supply Chain Analytics. 
 
-I also engage as a data analyst for a non profit performing arts center where I lead ETL and automation projects, and assist with building predictive models, recommend pricing strategies, A/B testing promotional offers and customer feedback sentiment analysis.
+For my masters practicum, I engaged as a data analyst for a non profit where I led ETL and automation projects, assisted with building predictive models, built dashboard, recommended pricing strategies, conducted A/B testing and customer feedback text analysis. 
 
 🌱I believe in lifelong learning and enjoy exploring new ideas and technologies to enhance my skills.
 
